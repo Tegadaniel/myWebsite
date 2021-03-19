@@ -1,0 +1,7 @@
+.textItem{
+    font-size: 2vw;
+    color: white;
+    -webkit-text-stroke: 0.1vw #7a837d;
+    cursor: pointer;
+}
+
