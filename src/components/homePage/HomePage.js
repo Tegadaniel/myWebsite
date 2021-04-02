@@ -12,14 +12,14 @@ export default class HomePage extends Component {
                    <Link to ="/projects"><button type="submit" className="button" >See Projects <i className="fas fa-arrow-right "></i></button></Link>
                  <br/>
                  <br/>
-                    <ul className = "nav ">
-                    <li class="card-text nav-item pl-2"> GitHub<a target="_blank" rel="noreferrer" href="https://github.com/Tegadaniel/"><i className="fab fa-fw fa-github"></i></a></li>
-                    <li class="card-text nav-item pl-2"> LinkedIn<a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/tega-daniel-a7b63a120/"><i className="fab fa-fw fa-linkedin" ></i></a></li>
-                    <li class="card-text nav-item pl-2"> Gmail<a target="_blank" rel="noreferrer" href="mailto:oghenetegaphilip@gmail.com"><i className="far fa-fw fa-envelope"></i></a></li>
-                    <li class="card-text nav-item pl-2"> Twitter<a target="_blank" rel="noreferrer" href="https://twitter.com/Iamtegadaniel"><i className="fab fa-fw fa-twitter"></i></a></li>
-                    <li class="card-text nav-item pl-2"> Dev Community<a target="_blank" rel="noreferrer" href="https://dev.to/tegadaniel">
+                 <ul className = "nav ">
+                    <a target="_blank" rel="noreferrer" href="https://github.com/Tegadaniel/"><li class="card-text nav-item pl-2"> GitHub<i className="fab fa-fw fa-github"></i></li></a>
+                    <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/tega-daniel-a7b63a120/"><li class="card-text nav-item pl-2"> LinkedIn<i className="fab fa-fw fa-linkedin" ></i></li></a>
+                    <a target="_blank" rel="noreferrer" href="mailto:oghenetegaphilip@gmail.com"><li class="card-text nav-item pl-2"> Gmail<i className="far fa-fw fa-envelope"></i></li></a>
+                    <a target="_blank" rel="noreferrer" href="https://twitter.com/Iamtegadaniel"><li class="card-text nav-item pl-2"> Twitter<i className="fab fa-fw fa-twitter"></i></li></a>
+                    <a target="_blank" rel="noreferrer" href="https://dev.to/tegadaniel"><li class="card-text nav-item pl-2"> Dev Community
                     <i class="fab fa-fw fa-dev" title="tegadaniel's DEV Community Profile"></i>
-                    </a></li>
+                    </li></a>
                     </ul>
             </div>
             </div>
