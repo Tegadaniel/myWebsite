@@ -1,5 +1,5 @@
 .textItem{
-    font-size: 2vw;
+    font-size: 25px;
     color: white;
     -webkit-text-stroke: 0.1vw #7a837d;
     cursor: pointer;
@@ -7,5 +7,8 @@
 }
 a:link {
     text-decoration: none;
+  }
+  .textAlign{
+    cursor: pointer;
   }
 
