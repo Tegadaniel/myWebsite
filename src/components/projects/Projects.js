@@ -8,7 +8,7 @@ export default function Projects() {
 
 
 <div className="row text-light ">
-<div class=" col-sm-6 col-xs-12 pb-3">
+<div className=" col-sm-6 col-xs-12 pb-3">
   <div className="card h-100 bg-dark cardInfo">
     <div className="card-body">
       <h5 className="card-title bold">Firebnb Demo</h5>
@@ -19,23 +19,23 @@ export default function Projects() {
     </div>
     <div className="card-footer">
       <small className="pr-4"><a target="_blank" rel="noreferrer" href="https://firebnbdemo.netlify.app/"> <i className="far fa-eye"></i></a></small>
-      <small><a target="_blank" rel="noreferrer" href="https://github.com/Tegadaniel/windbnb"> <i class="fas fa-code-branch"></i></a></small>
+      <small><a target="_blank" rel="noreferrer" href="https://github.com/Tegadaniel/windbnb"> <i className="fas fa-code-branch"></i></a></small>
       
     </div>
   </div>
   </div>
 <br/>
 
-  <div class="col-sm-6 col-xs-12 pb-3">
+  <div className="col-sm-6 col-xs-12 pb-3">
   <div className="card h-100  bg-dark cardInfo">
     <div className="card-body">
       <h5 className="card-title">Fake Store</h5>
       <hr/>
-      <p className="card-text">Shooping made easier <br/> React + Material UI + an API</p>
+      <p className="card-text">Shopping made easier <br/> React + Material UI + an API</p>
     </div>
     <div className="card-footer">
       <small className="pr-4"><a target="_blank" rel="noreferrer" href="https://fakestoredemo.netlify.app/"> <i className="far fa-eye"></i></a></small>
-      <small><a target="_blank" rel="noreferrer" href="https://github.com/Tegadaniel/ecommerce"> <i class="fas fa-code-branch"></i></a></small>
+      <small><a target="_blank" rel="noreferrer" href="https://github.com/Tegadaniel/ecommerce"> <i className="fas fa-code-branch"></i></a></small>
       
     </div>
   </div>
@@ -43,7 +43,7 @@ export default function Projects() {
 
 
 
-  <div class="col-sm-6 col-xs-12 pb-3">
+  <div className="col-sm-6 col-xs-12 pb-3">
   <div className="card h-100  bg-dark cardInfo">
     <div className="card-body">
       <h5 className="card-title">Personal Wallet</h5>
@@ -52,13 +52,13 @@ export default function Projects() {
     </div>
     <div className="card-footer">
       <small className="pr-4"><a target="_blank" rel="noreferrer" href="https://personawallet.netlify.app/"> <i className="far fa-eye"></i></a></small>
-      <small><a target="_blank" rel="noreferrer" href="https://github.com/Tegadaniel/Wallet-"> <i class="fas fa-code-branch"></i></a></small>
+      <small><a target="_blank" rel="noreferrer" href="https://github.com/Tegadaniel/Wallet-"> <i className="fas fa-code-branch"></i></a></small>
       
     </div>
   </div>
   </div>
   <br/>
-  <div class="col-sm-6 col-xs-12 pb-3">
+  <div className="col-sm-6 col-xs-12 pb-3">
   <div className="card h-100  bg-dark cardInfo">
     <div className="card-body">
       <h5 className="card-title">Github Finder</h5>
@@ -67,13 +67,13 @@ export default function Projects() {
     </div>
     <div className="card-footer">
       <small className="pr-4"><a target="_blank" rel="noreferrer" href="https://githubfinderdemo.netlify.app/"> <i className="far fa-eye"></i></a></small>
-      <small><a target="_blank" rel="noreferrer" href="https://github.com/Tegadaniel/GithubProfileFinder"> <i class="fas fa-code-branch"></i></a></small>
+      <small><a target="_blank" rel="noreferrer" href="https://github.com/Tegadaniel/GithubProfileFinder"> <i className="fas fa-code-branch"></i></a></small>
       
     </div>
   </div>
   </div>
 
-  <div class="col-sm-6 col-xs-12 pb-3">
+  <div className="col-sm-6 col-xs-12 pb-3">
   <div className="card h-100  bg-dark cardInfo hover-shadow">
     <div className="card-body">
       <h5 className="card-title">Todo List</h5>
@@ -82,22 +82,37 @@ export default function Projects() {
     </div>
     <div className="card-footer">
       <small className="pr-4"><a target="_blank" rel="noreferrer" href="https://personaltodolist.netlify.app/"> <i className="far fa-eye"></i></a></small>
-      <small><a target="_blank" rel="noreferrer" href="https://github.com/Tegadaniel/TodoApp"> <i class="fas fa-code-branch"></i></a></small>
+      <small><a target="_blank" rel="noreferrer" href="https://github.com/Tegadaniel/TodoApp"> <i className="fas fa-code-branch"></i></a></small>
       
     </div>
   </div>
   </div>
 
-  <div class="col-sm-6 col-xs-12 pb-3">
+  <div className="col-sm-6 col-xs-12 pb-3">
   <div className="card h-100  bg-dark cardInfo">
     <div className="card-body">
-      <h5 className="card-title">Card title</h5>
+      <h5 className="card-title">Joke Generator</h5>
       <hr/>
-      <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+      <p className="card-text">Chuck Norris Jokes <br/> React + Bootstrap + Joke Generator API</p>
     </div>
     <div className="card-footer">
-      <small className="pr-4"><a target="_blank" rel="noreferrer" href="https://firebnbdemo.netlify.app/"> <i className="far fa-eye"></i></a></small>
-      <small><a target="_blank" rel="noreferrer" href="https://firebnbdemo.netlify.app/"> <i class="fas fa-code-branch"></i></a></small>
+      <small className="pr-4"><a target="_blank" rel="noreferrer" href="https://chuckjokegenerator.netlify.app/"> <i className="far fa-eye"></i></a></small>
+      <small><a target="_blank" rel="noreferrer" href="https://github.com/Tegadaniel/JokesGenerator"> <i className="fas fa-code-branch"></i></a></small>
+      
+    </div>
+  </div>
+  </div>
+
+  <div className="col-sm-6 col-xs-12 pb-3">
+  <div className="card h-100  bg-dark cardInfo">
+    <div className="card-body">
+      <h5 className="card-title">TegaDaniel</h5>
+      <hr/>
+      <p className="card-text">My personal website <br/> React + Bootstrap + FontAwesome</p>
+    </div>
+    <div className="card-footer">
+      <small className="pr-4"><a target="_blank" rel="noreferrer" href="https://tegadaniel.netlify.app/"> <i className="far fa-eye"></i></a></small>
+      <small><a target="_blank" rel="noreferrer" href="https://github.com/Tegadaniel/myWebsite"> <i className="fas fa-code-branch"></i></a></small>
       
     </div>
   </div>
