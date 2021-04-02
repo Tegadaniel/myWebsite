@@ -10,7 +10,7 @@ export default class Header extends Component {
         <nav className="navbar ">
         <Link to="/"><h1 className = "textItem">TegaDaniel</h1> </Link>
         <ul className="nav navbar-nav navbar-right">
-      <li><i className="fas fa-align-right fa-3x textAlign" data-toggle="modal" data-target="#myModal"></i></li>
+      <li><i className="fas fa-align-right fa-2x textAlign" data-toggle="modal" data-target="#myModal"></i></li>
     </ul>
         </nav>
 

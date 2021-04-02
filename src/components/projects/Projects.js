@@ -9,7 +9,7 @@ export default function Projects() {
 
 <div className="row text-light ">
 <div class=" col-sm-6 col-xs-12 pb-3">
-  <div className="card h-100 bg-dark">
+  <div className="card h-100 bg-dark cardInfo">
     <div className="card-body">
       <h5 className="card-title bold">Firebnb Demo</h5>
       <hr/>
@@ -27,7 +27,7 @@ export default function Projects() {
 <br/>
 
   <div class="col-sm-6 col-xs-12 pb-3">
-  <div className="card h-100  bg-dark">
+  <div className="card h-100  bg-dark cardInfo">
     <div className="card-body">
       <h5 className="card-title">Fake Store</h5>
       <hr/>
@@ -44,7 +44,7 @@ export default function Projects() {
 
 
   <div class="col-sm-6 col-xs-12 pb-3">
-  <div className="card h-100  bg-dark">
+  <div className="card h-100  bg-dark cardInfo">
     <div className="card-body">
       <h5 className="card-title">Personal Wallet</h5>
       <hr/>
@@ -59,7 +59,7 @@ export default function Projects() {
   </div>
   <br/>
   <div class="col-sm-6 col-xs-12 pb-3">
-  <div className="card h-100  bg-dark">
+  <div className="card h-100  bg-dark cardInfo">
     <div className="card-body">
       <h5 className="card-title">Github Finder</h5>
       <hr/>
@@ -74,7 +74,7 @@ export default function Projects() {
   </div>
 
   <div class="col-sm-6 col-xs-12 pb-3">
-  <div className="card h-100  bg-dark hover-shadow">
+  <div className="card h-100  bg-dark cardInfo hover-shadow">
     <div className="card-body">
       <h5 className="card-title">Todo List</h5>
       <hr/>
@@ -89,7 +89,7 @@ export default function Projects() {
   </div>
 
   <div class="col-sm-6 col-xs-12 pb-3">
-  <div className="card h-100  bg-dark">
+  <div className="card h-100  bg-dark cardInfo">
     <div className="card-body">
       <h5 className="card-title">Card title</h5>
       <hr/>
