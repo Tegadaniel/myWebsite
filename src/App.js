@@ -3,6 +3,7 @@ import Header from './components/header/Header'
 import { BrowserRouter as Router, Switch, Route} from 'react-router-dom';
 import './App.css';
 import Projects from './components/projects/Projects';
+import Resume from './components/resume/Resume';
 
 
 function App() {
@@ -16,6 +17,9 @@ function App() {
       </Route>
       <Route path= "/projects">
         <Projects/>
+      </Route>
+      <Route path= "/resume">
+        <Resume/>
       </Route>
       </Switch>
     </div>

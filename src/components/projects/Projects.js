@@ -106,7 +106,7 @@ export default function Projects() {
   <div className="col-sm-6 col-xs-12 pb-3">
   <div className="card h-100  bg-dark cardInfo">
     <div className="card-body">
-      <h5 className="card-title">TegaDaniel</h5>
+      <h5 className="card-title">Tega Daniel</h5>
       <hr/>
       <p className="card-text">My personal website <br/> React + Bootstrap + FontAwesome</p>
     </div>
