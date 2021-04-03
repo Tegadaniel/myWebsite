@@ -1,7 +1,8 @@
 .resumeText{
-    color: black;
+    color: Black;
     -webkit-text-stroke: 0.1vw #071b07;
-    font-size: 60px;
+    font-size: 30px;
+    text-align: center;
 }
 .iconColor{
     color: black;

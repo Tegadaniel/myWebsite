@@ -4,7 +4,7 @@ import './Projects.css'
 export default function Projects() {
     return (
         <div className="container ">
-            <h1 className="projectText pb-3">Projects</h1>
+            <h4 className="projectText pb-3">Projects</h4>
 
 
 <div className="row text-light ">

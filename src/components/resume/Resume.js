@@ -4,7 +4,7 @@ import "./Resume.css"
 export default function Resume() {
     return (
         <div className = "container ">
-            <h3 className= "resumeText">Résumé</h3>
+            <h3 className= "resumeText pt-3">Résumé</h3>
             <div className="card">
                 <div className="card-body">
                 <a className = "bg-dark" target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/tega-daniel-a7b63a120/"  aria-label="LinkedIn"><i className="fab fa-fw fa-linkedin pl-3 float-right iconColor" ></i></a>
@@ -23,7 +23,7 @@ export default function Resume() {
                     <hr/>
                     <h5>PROFESSIONAL EXPERIENCE</h5>
                     <h6 className="text-justify">EXPANSE TECHNOLOGY</h6>
-                    <p  className="text-justify"> Graduate Intern(NYSC) November 2020 - Febuary 2021</p>
+                    <p  className="text-justify"> Graduate Intern(NYSC) November 2020 - Present</p>
                     <ul className="list-group list-group-flush">
                         <li className="list-group-item">■ Worked closely with a senior dev and learnt new technologies.</li>
                         <li className="list-group-item">■ Tasked in delevering a personal project at least every two weeks.</li>

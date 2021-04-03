@@ -14,7 +14,7 @@ export default class Header extends Component {
     </ul>
         </nav>
 
-  <div className="modal fade" id="myModal" data-backdrop="static" data-keyboard="false" role="dialog">
+  <div className="modal fade" id="myModal" role="dialog">
     <div className="modal-dialog modal-lg">
       <div className="modal-content">
         <div className="modal-header">
