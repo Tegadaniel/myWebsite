@@ -19,11 +19,21 @@ export default function Resume() {
                      I’m always ready to adapt according to project specifications irrespective of stack. Aspiring to combine broad background with strong technical skills to excel as a Front-End Developer.</p>
                     <hr/>
                     <h5>SKILLS</h5>
-                    <p className="text-justify" > HTML/CSS, Javascript [ES6], Bootstrap, React.js, Styled Components, GraphQL, Jquery, Git, Netlify,Search Engine Optimisation.</p>
+                    <p className="text-justify" > HTML/CSS, Javascript [ES6], Bootstrap, React.js, Styled Components, GraphQL, Jquery, Git, Netlify, Search Engine Optimisation, SQL, ASP.NET.</p>
                     <hr/>
                     <h5>PROFESSIONAL EXPERIENCE</h5>
+                    <h6 className="text-justify">High-Tech Synergy Solutions</h6>
+                    <p  className="text-justify"> Full Stack Graduate Intern April 2021 - Present</p>
+                    <ul className="list-group list-group-flush">
+                        <li className="list-group-item">■ Picked up SQL and ASP.Net</li>
+                        <li className="list-group-item">■ Tasked in delevering a Service Desk Application where customers can log in requests, have interactions with the support via a livechat enabled on the platform and also rate a chat. </li>
+                        <li className="list-group-item">■ Worked with pure JS, ASP.Net, SQL and Bootstrap framework(s).</li>
+                        <li className="list-group-item">■ Tasked in coonverting the built application into Mobile.</li>
+                    </ul>
+
+                        <br/>
                     <h6 className="text-justify">EXPANSE TECHNOLOGY</h6>
-                    <p  className="text-justify"> Graduate Intern(NYSC) November 2020 - Present</p>
+                    <p  className="text-justify"> Graduate Intern(NYSC) November 2020 - March 2021</p>
                     <ul className="list-group list-group-flush">
                         <li className="list-group-item">■ Worked closely with a senior dev and learnt new technologies.</li>
                         <li className="list-group-item">■ Tasked in delevering a personal project at least every two weeks.</li>
