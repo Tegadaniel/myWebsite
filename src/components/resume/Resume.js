@@ -23,7 +23,7 @@ export default function Resume() {
                     <hr/>
                     <h5>PROFESSIONAL EXPERIENCE</h5>
                     <h6 className="text-justify">High-Tech Synergy Solutions</h6>
-                    <p  className="text-justify"> Full Stack Graduate Intern April 2021 - Present</p>
+                    <p  className="text-justify"> Frontend Developer April 2021 - Present</p>
                     <ul className="list-group list-group-flush">
                         <li className="list-group-item">■ Picked up SQL and ASP.Net</li>
                         <li className="list-group-item">■ Tasked in delevering a Service Desk Application where customers can log in requests, have interactions with the support via a livechat enabled on the platform and also rate a chat. </li>
