@@ -30,7 +30,7 @@ export default function Resume() {
                         <li className="list-group-item">■ Worked with pure JS, ASP.Net, SQL and Bootstrap framework(s).</li>
                         <li className="list-group-item">■ Tasked in converting the built application into Mobile.</li>
                         <li className="list-group-item">■ Tasked in creating a page that makes use of a bank api to create bank accounts for customers</li>
-                        <li className="list-group-item">■ •	Currently working on an application built on React, C# and MYSQL.</li>
+                        <li className="list-group-item">■ Currently working on an application built on React, C# and MYSQL.</li>
                     </ul>
 
                         <br/>
