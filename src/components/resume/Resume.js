@@ -19,7 +19,7 @@ export default function Resume() {
                      I’m always ready to adapt according to project specifications irrespective of stack. Aspiring to combine broad background with strong technical skills to excel as a Front-End Developer.</p>
                     <hr/>
                     <h5>SKILLS</h5>
-                    <p className="text-justify" > HTML/CSS, Javascript [ES6], Bootstrap, React.js, Styled Components, GraphQL, Jquery, Git, Netlify, Search Engine Optimisation, SQL, ASP.NET.</p>
+                    <p className="text-justify" > HTML, CSS, JavaScript [ES6], Styled Components, SASS, jQuery, Microsoft SQL, React, Bootstrap, Material UI, Chakra UI, GIT, React-Query, Redux.</p>
                     <hr/>
                     <h5>PROFESSIONAL EXPERIENCE</h5>
                     <h6 className="text-justify">High-Tech Synergy Solutions</h6>
