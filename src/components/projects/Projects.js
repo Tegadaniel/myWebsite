@@ -31,11 +31,11 @@ export default function Projects() {
     <div className="card-body">
       <h5 className="card-title">Fake Store</h5>
       <hr/>
-      <p className="card-text">Shopping made easier <br/> React + Material UI + an API</p>
+      <p className="card-text">Shopping made easier <br/> React + BootsWatch, and Context API </p>
     </div>
     <div className="card-footer">
-      <small className="pr-4"><a target="_blank" rel="noreferrer" href="https://fakestoredemo.netlify.app/"> <i className="far fa-eye"></i></a></small>
-      <small><a target="_blank" rel="noreferrer" href="https://github.com/Tegadaniel/ecommerce"> <i className="fas fa-code-branch"></i></a></small>
+      <small className="pr-4"><a target="_blank" rel="noreferrer" href="https://fakeecommercestore.netlify.app/"> <i className="far fa-eye"></i></a></small>
+      <small><a target="_blank" rel="noreferrer" href="https://github.com/Tegadaniel/FakeStore"> <i className="fas fa-code-branch"></i></a></small>
       
     </div>
   </div>
