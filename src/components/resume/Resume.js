@@ -8,7 +8,7 @@ export default function Resume() {
             <div className="card">
                 <div className="card-body">
                 <a className = "bg-dark" target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/tega-daniel-a7b63a120/"  aria-label="LinkedIn"><i className="fab fa-fw fa-linkedin pl-3 float-right iconColor" ></i></a>
-                    <a className = "bg-dark" target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1qzKlsu4QxnAs2mGS_-VSInfFHvqxzVjP/view?usp=sharing"  aria-label="Download"><i className="fas fa-arrow-down float-right iconColor "></i></a>
+                    <a className = "bg-dark" target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1ZyF901s8wbc12_0karUPpOd_Mo3D-PZF/view?usp=sharing"  aria-label="Download"><i className="fas fa-arrow-down float-right iconColor "></i></a>
                     <h4>Philip Daniel Oghenetega
                      </h4>
                     <p>Frontend Developer</p>
