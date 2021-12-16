@@ -117,6 +117,21 @@ export default function Projects() {
     </div>
   </div>
   </div>
+
+  <div className="col-sm-6 col-xs-12 pb-3">
+  <div className="card h-100  bg-dark cardInfo">
+    <div className="card-body">
+      <h5 className="card-title">Simple Redux APP</h5>
+      <hr/>
+      <p className="card-text">Redux APP <br/> React + Bootstrap + Redux</p>
+    </div>
+    <div className="card-footer">
+      <small className="pr-4"><a target="_blank" rel="noreferrer" href="https://rj-challenge.netlify.app/"> <i className="far fa-eye"></i></a></small>
+      <small><a target="_blank" rel="noreferrer" href="https://github.com/Tegadaniel/rj-challenge"> <i className="fas fa-code-branch"></i></a></small>
+      
+    </div>
+  </div>
+  </div>
 </div>
         </div>
     )
